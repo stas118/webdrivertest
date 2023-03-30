@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "mocha"
+  },
+  "dependencies": {
+    "mocha": "^10.2.0",
+    "webdriverio": "^8.6.9"
+  }
+}
+
